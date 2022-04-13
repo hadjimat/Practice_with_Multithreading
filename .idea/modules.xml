@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImageResizer/ImageResiser.iml" filepath="$PROJECT_DIR$/ImageResizer/ImageResiser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Practice_with_Multithreading.iml" filepath="$PROJECT_DIR$/.idea/Practice_with_Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SiteMap/SiteMapCreator.iml" filepath="$PROJECT_DIR$/SiteMap/SiteMapCreator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Transactions/Transactions.iml" filepath="$PROJECT_DIR$/Transactions/Transactions.iml" />
+    </modules>
+  </component>
+</project>
